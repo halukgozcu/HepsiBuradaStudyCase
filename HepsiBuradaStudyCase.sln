@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HepsiBuradaStudyCase.App", "HepsiBuradaStudyCase.App\HepsiBuradaStudyCase.App.csproj", "{DF4C7E31-B671-4B94-AB34-9FF52F92A3FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HepsiBuradaStudyCase.App.Tests", "HepsiBuradaStudyCase.App.Tests\HepsiBuradaStudyCase.App.Tests.csproj", "{B236CCF4-EDFC-444C-BE02-7DD933D5E21B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF4C7E31-B671-4B94-AB34-9FF52F92A3FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF4C7E31-B671-4B94-AB34-9FF52F92A3FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF4C7E31-B671-4B94-AB34-9FF52F92A3FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF4C7E31-B671-4B94-AB34-9FF52F92A3FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B236CCF4-EDFC-444C-BE02-7DD933D5E21B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B236CCF4-EDFC-444C-BE02-7DD933D5E21B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B236CCF4-EDFC-444C-BE02-7DD933D5E21B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B236CCF4-EDFC-444C-BE02-7DD933D5E21B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D40F1459-5227-4810-AD4C-D8ED912AC143}
+	EndGlobalSection
+EndGlobal
